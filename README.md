@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="100" width="100">
+  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="300" width="200">
 </div>
-<br clear="both">
+<br>
 
 <h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
 
