@@ -1,3 +1,4 @@
+![logo](https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png)
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
