@@ -1,4 +1,6 @@
-![logo](https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png)
+<div align="center">
+  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="100" width="100">
+</div>
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
