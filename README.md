@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="150" width="200">
-</div>
+  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="200" width="200">
 <br>
 
 <h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
@@ -84,3 +83,4 @@
 </div>
 
 ###
+</div>
