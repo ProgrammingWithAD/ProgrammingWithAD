@@ -1,6 +1,3 @@
-![logo](https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
-
-
 <br clear="both">
 
 <h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
