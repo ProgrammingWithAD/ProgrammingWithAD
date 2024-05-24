@@ -2,7 +2,9 @@
   <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="200" width="200">
 <br>
 
-<h2 align="center">Hi 👋! My name is Akash Deep Sarkar</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+name+is+Akash+Deep+Sarkar;" />
+</h1>
 
 ###
 
@@ -79,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ProgrammingWithAD/count.svg?"  />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 ###
