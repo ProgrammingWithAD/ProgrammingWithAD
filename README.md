@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="300" width="200">
+  <img src="https://github.com/ProgrammingWithAD/ProgrammingWithAD/blob/main/anime.png" alt="logo" height="150" width="200">
 </div>
 <br>
 
@@ -67,13 +67,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2UyN3NhYXFuY2JmM2FiZ2VjMGF6MjdpamY1dGR0dDdkbDJmOWk0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7k6JOp8LufhXspVfu/giphy.gif"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h3 align="center">A code wizard who conjures backend magic and associates awesomeness with every line: the digital maestro of the tech realm!</h3>
